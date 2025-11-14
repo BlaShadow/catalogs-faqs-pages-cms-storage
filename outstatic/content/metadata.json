@@ -1,10 +1,10 @@
 {
-  "commit": "c9446fb37f4d5aa7fe0ba94aea7ad35561fbe585",
-  "generated": "2025-11-14T11:34:53.212Z",
+  "commit": "",
+  "generated": "Fri, 14 Nov 2025 11:38:57 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "c9446fb37f4d5aa7fe0ba94aea7ad35561fbe585",
+        "commit": "702281f259d130637acdb8236ff70a69ff847735",
         "hash": "2397530681",
         "path": "outstatic/content/posts/test-nice.mdx"
       },
