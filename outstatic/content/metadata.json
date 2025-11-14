@@ -1,12 +1,12 @@
 {
-  "commit": "",
-  "generated": "2025-11-14T11:34:36.262Z",
+  "commit": "c9446fb37f4d5aa7fe0ba94aea7ad35561fbe585",
+  "generated": "2025-11-14T11:34:53.212Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "1567742402",
-        "path": "outstatic/content/posts/test.mdx"
+        "commit": "c9446fb37f4d5aa7fe0ba94aea7ad35561fbe585",
+        "hash": "2397530681",
+        "path": "outstatic/content/posts/test-nice.mdx"
       },
       "author": {
         "name": "Luis",
@@ -14,8 +14,8 @@
       },
       "collection": "posts",
       "publishedAt": "2025-11-14T11:10:00.862Z",
-      "slug": "test",
-      "status": "draft",
+      "slug": "test-nice",
+      "status": "published",
       "title": "Test"
     }
   ]
