@@ -10,5 +10,11 @@
     "slug": "faqs",
     "path": "outstatic/content/faqs",
     "children": []
+  },
+  {
+    "title": "Docs",
+    "slug": "docs",
+    "path": "outstatic/content/docs",
+    "children": []
   }
 ]
