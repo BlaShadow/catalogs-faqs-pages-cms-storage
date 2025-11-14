@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Fri, 14 Nov 2025 11:51:33 GMT",
+  "commit": "302771a78105a3db01ed0e6d30121e0b4949c9db",
+  "generated": "2025-11-14T13:14:34.246Z",
   "metadata": [
     {
       "__outstatic": {
@@ -33,6 +33,22 @@
       "slug": "test-nice",
       "status": "published",
       "title": "Test"
+    },
+    {
+      "__outstatic": {
+        "commit": "302771a78105a3db01ed0e6d30121e0b4949c9db",
+        "hash": "356081971",
+        "path": "outstatic/content/posts/test-01.mdx"
+      },
+      "author": {
+        "name": "Luis",
+        "picture": "https://avatars.githubusercontent.com/u/712272?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-11-14T12:50:25.439Z",
+      "slug": "test-01",
+      "status": "published",
+      "title": "test-01"
     }
   ]
 }
