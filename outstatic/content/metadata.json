@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Fri, 14 Nov 2025 11:38:57 GMT",
+  "commit": "44e8470bd4ce02af03c29c2dbf19e269b7fd1c2c",
+  "generated": "2025-11-14T11:39:40.892Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "test-nice",
       "status": "published",
       "title": "Test"
+    },
+    {
+      "__outstatic": {
+        "commit": "44e8470bd4ce02af03c29c2dbf19e269b7fd1c2c",
+        "hash": "4216312157",
+        "path": "outstatic/content/faqs/como-crear-un-comando.mdx"
+      },
+      "author": {
+        "name": "Luis",
+        "picture": "https://avatars.githubusercontent.com/u/712272?v=4"
+      },
+      "collection": "faqs",
+      "publishedAt": "2025-11-14T11:15:25.948Z",
+      "slug": "como-crear-un-comando",
+      "status": "published",
+      "title": "Como crear un comando"
     }
   ]
 }
